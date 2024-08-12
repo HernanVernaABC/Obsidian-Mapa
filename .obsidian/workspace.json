@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "c156743a114836bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9dd386d4a57f31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5950dfa98f61f254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingles/Pronouns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909721fc82524b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Estudio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e11e146efbc14057",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e719bc3cb4dc0492",
+    "type": "split",
+    "children": [
+      {
+        "id": "949f7a9ab9206cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90df0075f3794700",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7878fd46b8be7262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd615b15087a3606",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "31b95728a1fae1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "59cf07d30f21fdf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6af77b184ef0194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tareas/Estudio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9d1a569b2a5c0116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tareas/Estudio.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5332cd06c60ee696",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7641a7f8801a6063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tareas/Estudio.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "floating": {
+    "id": "fbc6c0beea5eba47",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6644cb1962ddd37e",
+        "type": "window",
+        "children": [
+          {
+            "id": "ab4e440f2d00675a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8101e081beeaa6a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Matematicas/matesimp2.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 584,
+        "y": 19,
+        "width": 1366,
+        "height": 720,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "e11e146efbc14057",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "Matematicas/Productos Notables.md",
+    "Matematicas/matesimp2.pdf",
+    "Tareas/Estudio.md",
+    "Hábitos/Método de Estudio/Active Recall.md",
+    "Matematicas",
+    "Ingles/Repaso Pronouns.md",
+    "Ingles/Pronouns.md",
+    "UTN/Arquitectura y Sistemas Operativos/Unidad 3. Procesos.md",
+    "UTN/Arquitectura y Sistemas Operativos/Unidad 2. SO.md",
+    "UTN/Arquitectura y Sistemas Operativos/Unidad 1. Software.md",
+    "UTN/Arquitectura y Sistemas Operativos/Unidad 0. Conceptos Previos.md",
+    "UTN/Organización Empresarial/Modulo 2. Información.md",
+    "UTN/Organización Empresarial/Modulo 1 - Mercado.md",
+    "UTN/Organización Empresarial/Activos y Pasivos.md",
+    "UTN/Organización Contable de la Emp/Unidad 2. Patrimonio Empresarial.md",
+    "UTN/Organización Contable de la Emp/Unidad 1..md",
+    "IT/C/C, C++ y C Sharp.md",
+    "UTN/Arquitectura y Sistemas Operativos/Proceso de carga del SO.pdf",
+    "Hábitos/Método de Estudio/Pasted image 20240309202843.png",
+    "IT/C",
+    "Ingles/Concep. Basicos.md",
+    "UTN/Arquitectura y Sistemas Operativos/AYSO_U02_Sistemas_Operativos.pdf",
+    "UTN/Arquitectura y Sistemas Operativos/AYSO_U02_Sistemas_Operativos_Introduccion.pdf",
+    "UTN/Arquitectura y Sistemas Operativos/datos, procesos, informacion.png",
+    "UTN/Arquitectura y Sistemas Operativos/File System.md",
+    "UTN/Organización Empresarial/Modulo 3. Los Sistemas en las Organizaciones.md",
+    "UTN/Organización Empresarial/Pasted image 20240408113908.png",
+    "Mecatronica/Sin título 1",
+    "Tareas/Jefatura.md",
+    "Tareas/Escuela.md",
+    "Tareas/Casa.md",
+    "UTN/Organización Empresarial/Drawing 2024-04-08 11.03.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-04 08.45.47.excalidraw.md",
+    "Mecatronica/Procesamiento Mecánico/Procesamiento Mecánico.md",
+    "Sin título 1.md",
+    "Mecatronica/Sin título 2",
+    "Mecatronica/Tecnología de los Materiales",
+    "Mecatronica/Procesamiento Mecánico",
+    "UTN/Arquitectura y Sistemas Operativos/datos, procesos, informacion.jpg",
+    "Pasted image 20240309202532.jpg"
+  ]
+}
